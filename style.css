@@ -25,6 +25,7 @@ select {
   border-radius: 10px;
   font-size: large;
   margin-bottom: 10px;
+  background-color: transparent;
 }
 h1 {
   text-align: center;
